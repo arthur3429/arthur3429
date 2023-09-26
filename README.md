@@ -1,17 +1,36 @@
-# 💫 Sobre Mim:
-</> Dev Front-end<br></> Em busca de conhecimento 🔥
+# Olá, me chamo Arthur 👋
+
+## Sou Desenvolvedor Front-end 👨‍💻
+
+Bem-vindo ao meu perfil do GitHub! Sou um apaixonado desenvolvedor front-end, dedicado a criar interfaces web incríveis e experiências de usuário envolventes. Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para trazer ideias criativas à vida.
+
+### Habilidades 🚀
+
+Aqui estão algumas das habilidades e tecnologias com as quais trabalho:
+
+- **HTML5** e **CSS3**: Criação de estruturas sólidas e estilização elegante.
+
+- **JavaScript**: Desenvolvimento interativo e dinâmico com frameworks como React.
+
+- **WordPress**: Criação de temas personalizados, incluindo o uso do Elementor.
+  
+- **Figma**: Design de interface de usuário e prototipagem.
+  
+- **Responsive Web Design**: Garantindo que os sites sejam visualmente atraentes em todos os dispositivos.
+
+- **Controle de Versão**: Uso do Git e GitHub para gerenciar projetos e colaboração.
+
+- **Performance e Otimização**: Melhorando o desempenho e a eficiência de carregamento de sites.
+
+Sinta-se à vontade para explorar meus repositórios e projetos para obter mais informações sobre meu trabalho. Se você estiver interessado em colaborar ou tiver alguma pergunta, fique à vontade para entrar em contato. Estou ansioso para conectar com outros desenvolvedores e compartilhar experiências!
 
 
-## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/oldarthur/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arthur-pereira-9ba0b5239/) 
+### Como Entrar em Contato 📬
 
-# 💻 Stacks:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=arthur3429&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur3429&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **LinkedIn**: https://www.linkedin.com/in/oldarthur/
 
----
-[![](https://visitcount.itsvg.in/api?id=arthur3429&icon=2&color=2)](https://visitcount.itsvg.in)
+- **E-mail**: arthur3429@gmail.com
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Sinta-se à vontade para explorar meus repositórios e projetos para obter mais informações sobre meu trabalho. Se você estiver interessado em colaborar ou tiver alguma pergunta, fique à vontade para entrar em contato. Estou ansioso para conectar com outros desenvolvedores e compartilhar experiências!
+
+[Portfólio Online](http://arthurdev.website/)
